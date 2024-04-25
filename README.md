@@ -1,16 +1,39 @@
-# solyanka
+# Solyanka
 
-A new Flutter project.
+This is my training app about job searching. It calls like this because it's like soup solyanka where is a lot mixed without strong point
 
-## Getting Started
+Here i've learned:
 
-This project is a starting point for a Flutter application.
+## UI
+- App fonts
+- Dark/light theme changing with switch
+- Custom painter with gradient
+- Hero animation
+- Simple notification with implicit animation
+- In some widgets simple tries to adaptive design
+- App icon
+- Splash screen
+- Bottom navigation bar with indexed stack
+- Images
+- Alert dialog
+- Sliver list
+- PageView
 
-A few resources to get you started if this is your first Flutter project:
+## Logic
+- BLoC 
+- Cubit
+- DI with Inversion
+- Provider
+- Http and Dio with search
+- Json
+- Pagintation
+- Shared preferences
+- Firebase: authentication and chat with cloud firestore
+- Youtube video with full screen allow
+- Favorite vacancies page
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Resources
+- Free design from Figma
+  https://www.figma.com/community/file/1355731213473247201/obradee-a-job-finder-mobile-application-community
+- API
+  https://trudvsem.ru/opendata/api
