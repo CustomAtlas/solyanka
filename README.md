@@ -40,5 +40,7 @@ Here i've learned:
 
 ## Also you can check screenshots and video by how it works
 
-![Screenshot_1714070871](https://github.com/CustomAtlas/solyanka/assets/165499054/7ab295de-4e42-4acc-b6a9-279919e1c487)
+
+![Screenshot_1714070871](https://github.com/CustomAtlas/solyanka/assets/165499054/ffd12430-934f-4c30-adb8-3eff910dad6d)
+
 
