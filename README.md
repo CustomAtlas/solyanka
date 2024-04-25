@@ -18,6 +18,7 @@ Here i've learned:
 - Alert dialog
 - Sliver list
 - PageView
+- DropDown Menu/Button
 
 ## Logic
 - BLoC 
@@ -61,15 +62,15 @@ Maybe it's too detalized but anyway...
 
 
 
-![Screenshot_1714071163](https://github.com/CustomAtlas/solyanka/assets/165499054/02d4246a-a9cd-4c7d-a731-88deaeb109c7)    ![Screenshot_1714071133](https://github.com/CustomAtlas/solyanka/assets/165499054/18d25c12-b5f9-43da-a72b-a14ae12cdfab)    
+![Screenshot_1714071163](https://github.com/CustomAtlas/solyanka/assets/165499054/02d4246a-a9cd-4c7d-a731-88deaeb109c7)    ![Screenshot_1714071133](https://github.com/CustomAtlas/solyanka/assets/165499054/18d25c12-b5f9-43da-a72b-a14ae12cdfab)    ![Screenshot_1714071208](https://github.com/CustomAtlas/solyanka/assets/165499054/44f5904e-10bc-4033-a245-8202bc238095) 
 
 
 
-![Screenshot_1714071208](https://github.com/CustomAtlas/solyanka/assets/165499054/44f5904e-10bc-4033-a245-8202bc238095)    ![Screenshot_1714071228](https://github.com/CustomAtlas/solyanka/assets/165499054/ab8270a9-b5b9-44c0-a41f-b831adbf145d)    ![Screenshot_1714071244](https://github.com/CustomAtlas/solyanka/assets/165499054/dd769812-b15a-48c3-8483-207f45ef9a68)
+![Screenshot_1714071228](https://github.com/CustomAtlas/solyanka/assets/165499054/ab8270a9-b5b9-44c0-a41f-b831adbf145d)    ![Screenshot_1714071244](https://github.com/CustomAtlas/solyanka/assets/165499054/dd769812-b15a-48c3-8483-207f45ef9a68)    ![Screenshot_1714071252](https://github.com/CustomAtlas/solyanka/assets/165499054/14126c23-70fe-4607-b7cd-5b2c34134314)    
 
 
 
-![Screenshot_1714071252](https://github.com/CustomAtlas/solyanka/assets/165499054/14126c23-70fe-4607-b7cd-5b2c34134314)    ![Screenshot_1714071266](https://github.com/CustomAtlas/solyanka/assets/165499054/3035a78c-1d00-4d24-8bca-4329e5a56ad1)    ![Screenshot_1714071276](https://github.com/CustomAtlas/solyanka/assets/165499054/c07f0d73-a15b-42a8-adc6-230669edb1ed)
+![Screenshot_1714071266](https://github.com/CustomAtlas/solyanka/assets/165499054/3035a78c-1d00-4d24-8bca-4329e5a56ad1)    ![Screenshot_1714071276](https://github.com/CustomAtlas/solyanka/assets/165499054/c07f0d73-a15b-42a8-adc6-230669edb1ed)
 
 
 
