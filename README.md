@@ -36,8 +36,10 @@ Here i've learned:
 
 ## Resources
 - Free design from Figma
+
   https://www.figma.com/community/file/1355731213473247201/obradee-a-job-finder-mobile-application-community
 - API
+
   https://trudvsem.ru/opendata/api
 
 ## Also you can check screenshots
