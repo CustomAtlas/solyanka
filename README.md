@@ -39,8 +39,10 @@ Here i've learned:
   https://trudvsem.ru/opendata/api
 
 ## Also you can check screenshots and video by how it works
+Maybe it's too detalized but anyway...
+
+![Screenshot_1714070871](https://github.com/CustomAtlas/solyanka/assets/165499054/f2e2b815-77ec-4854-853f-f6d5c38e3180)    ![Screenshot_1714070878](https://github.com/CustomAtlas/solyanka/assets/165499054/42215457-e2e3-4444-a7a4-e48feb40edc2)
 
 
-![Screenshot_1714070871](https://github.com/CustomAtlas/solyanka/assets/165499054/ffd12430-934f-4c30-adb8-3eff910dad6d)
 
 
