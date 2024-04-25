@@ -32,6 +32,7 @@ Here i've learned:
 - Firebase: authentication and chat with cloud firestore
 - Youtube video with full screen allow
 - Favorite vacancies page
+- Loader widget wich checks on auth and completed profile settings
 
 ## Resources
 - Free design from Figma
@@ -39,7 +40,7 @@ Here i've learned:
 - API
   https://trudvsem.ru/opendata/api
 
-## Also you can check screenshots and video by how it works
+## Also you can check screenshots
 Maybe it's too detalized but anyway...
 
 ![Screenshot_1714070871](https://github.com/CustomAtlas/solyanka/assets/165499054/f2e2b815-77ec-4854-853f-f6d5c38e3180)        ![Screenshot_1714070878](https://github.com/CustomAtlas/solyanka/assets/165499054/42215457-e2e3-4444-a7a4-e48feb40edc2)    ![Screenshot_1714070890](https://github.com/CustomAtlas/solyanka/assets/165499054/d0481ef5-cc0e-4add-8875-dd81c5f9e51a)    
@@ -74,9 +75,8 @@ Maybe it's too detalized but anyway...
 
 
 
-
-
-
+I've tried to add here a video about how it works but i can't keep limit in 10MB so if you're interested this is Google Drive with this video
+https://drive.google.com/drive/folders/14WJoNoagRBALtqzZTkAgt6nIxW_qnEwb?usp=sharing
 
 
 
