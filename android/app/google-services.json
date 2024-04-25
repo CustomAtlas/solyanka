@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "68651929326",
+    "project_id": "solyanka-65374",
+    "storage_bucket": "solyanka-65374.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68651929326:android:8ce79998e293f46f73edff",
+        "android_client_info": {
+          "package_name": "com.example.solyanka"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiw3tLNV2av9rTJ7N1v_g26K2FNhOrFy4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

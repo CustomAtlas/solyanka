@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "68651929326",
+    "project_id": "solyanka-65374",
+    "storage_bucket": "solyanka-65374.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68651929326:android:8ce79998e293f46f73edff",
+        "android_client_info": {
+          "package_name": "com.example.solyanka"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "68651929326-qn1nidemc3ov1jlu1nked8vqtt8e453p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.solyanka",
+            "certificate_hash": "1f7268cb080cfd6c0450f0743b4c08ba1b4031ad"
+          }
+        },
+        {
+          "client_id": "68651929326-ap390lv1l1l83ngdand44rb5fd5lfa4s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiw3tLNV2av9rTJ7N1v_g26K2FNhOrFy4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "68651929326-ap390lv1l1l83ngdand44rb5fd5lfa4s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
