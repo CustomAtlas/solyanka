@@ -33,6 +33,7 @@ Here i've learned:
 - Youtube video with full screen allow
 - Favorite vacancies page
 - Loader widget wich checks on auth and completed profile settings
+- And try to MVVM architecture
 
 ## Resources
 - Free design from Figma
